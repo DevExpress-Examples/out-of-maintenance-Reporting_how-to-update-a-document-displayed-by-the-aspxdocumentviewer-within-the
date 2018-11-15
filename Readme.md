@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraReport1.cs](./CS/DXSample/App_Code/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/DXSample/App_Code/XtraReport1.vb))
+* **[Default.aspx](./CS/DXSample/Default.aspx) (VB: [Default.aspx](./VB/DXSample/Default.aspx))**
+* [Default.aspx.cs](./CS/DXSample/Default.aspx.cs) (VB: [Default.aspx](./VB/DXSample/Default.aspx))
+<!-- default file list end -->
 # How to update a document displayed by the ASPxDocumentViewer within the ASPxPopupControl
 
 
