@@ -23,8 +23,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using DevExpress.Web.ASPxPopupControl;
-using DevExpress.Web.ASPxCallbackPanel;
+using DevExpress.Web;
 using DevExpress.XtraReports.Web;
 
 public partial class _Default : System.Web.UI.Page 
